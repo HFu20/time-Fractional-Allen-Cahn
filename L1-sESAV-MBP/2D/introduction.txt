@@ -1,1 +1,0 @@
-This test code is corresponding to Example 3.2 of our manuscript on uniform temporal grids.
